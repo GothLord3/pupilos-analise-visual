@@ -1,5 +1,5 @@
 {
-  "oficial": "nano-refinado",
+  "oficial": "Oficial-v1",
   "modelos": {
     "piloto-controle": {
       "pesos": "piloto-controle.pt",
@@ -67,8 +67,8 @@
       "confianca": 0.01,
       "tamanho": 320
     },
-    "nano-refinado": {
-      "pesos": "nano-refinado.pt",
+    "Oficial-v1": {
+      "pesos": "Oficial-v1.pt",
       "sha256": "4250570520c0cc0b49da04a98f85d45993f17372eaa1cba05a99aa576d90d99f",
       "confianca": 0.5,
       "tamanho": 960

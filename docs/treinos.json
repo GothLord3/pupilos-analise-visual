@@ -1,5 +1,5 @@
 {
-  "oficial": "nano-refinado",
+  "oficial": "Oficial-v1",
   "modelos": {
     "piloto-controle": {
       "arquitetura": "YOLO11n Detect",
@@ -4862,7 +4862,7 @@
         }
       }
     },
-    "nano-refinado": {
+    "Oficial-v1": {
       "arquitetura": "YOLO11n Detect",
       "grupo": "refinamento",
       "modelo_inicial": "last.pt",

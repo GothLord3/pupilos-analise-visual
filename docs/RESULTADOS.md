@@ -4,7 +4,7 @@ O detector YOLO11n tem oito classes PB-IA. Caixas de outras famílias ficam como
 
 ## Seleção do modelo
 
-O oficial é **nano-refinado**, com confiança de 50% e inferência a 960 px. O F1 médio de validação foi 0.923, considerando os 19 originais e as 41 variações de validação em grupos separados. Cada acerto exige classe igual e IoU de pelo menos 0,50, sem reutilizar caixas. Uma foto inteira só é acertada quando todas as caixas de referência correspondem às previsões e sobram zero caixas. Os pesos históricos ficam disponíveis para comparação. Seus treinos podem ter visto fotos que hoje estão reservadas, incluindo imagens da validação e do teste externo do Roboflow. A comparação entre esses pesos é descritiva.
+O oficial é **Oficial-v1**, com confiança de 50% e inferência a 960 px. O F1 médio de validação foi 0.923, considerando os 19 originais e as 41 variações de validação em grupos separados. Cada acerto exige classe igual e IoU de pelo menos 0,50, sem reutilizar caixas. Uma foto inteira só é acertada quando todas as caixas de referência correspondem às previsões e sobram zero caixas. Os pesos históricos ficam disponíveis para comparação. Seus treinos podem ter visto fotos que hoje estão reservadas, incluindo imagens da validação e do teste externo do Roboflow. A comparação entre esses pesos é descritiva.
 
 ## Avaliação com o limiar de cada versão
 
@@ -12,7 +12,7 @@ Cada célula mostra **fotos completas/total · F1 por objeto**. As seis fotos or
 
 | Modelo | Grupo | Confiança | Validação original | Teste original | Teste ampliado | Online |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| **nano-refinado** | oficial | 50.0% | 15/19 · 0.897 | 0/6 · 0.455 | 0/12 · 0.419 | 1/5 · 0.250 |
+| **Oficial-v1** | oficial | 50.0% | 15/19 · 0.897 | 0/6 · 0.455 | 0/12 · 0.419 | 1/5 · 0.250 |
 | piloto-controle | histórico | 50.0% | 16/19 · 0.815 | 0/6 · 0.231 | 0/12 · 0.214 | 2/5 · 0.533 |
 | piloto-saturacao | histórico | 50.0% | 16/19 · 0.750 | 0/6 · 0.259 | 0/12 · 0.243 | 1/5 · 0.500 |
 | roboflow-inicial | histórico | 50.0% | 0/19 · 0.000 | 0/6 · 0.000 | 0/12 · 0.000 | 1/5 · 0.000 |

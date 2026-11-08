@@ -44,4 +44,4 @@ python -m scripts.treinar ajuste --epocas 6 --inicial modelos/ampliado.pt
 
 `Bicos de Pulverização` guarda os originais com nomes padronizados. `dataset` concentra a base YOLO com as 84 fotos, as variações organizadas por transformação e as imagens de avaliação externa. `analise_dados/resumo.json` tem o inventário verificável. O catálogo, o seminário e a exportação original do Roboflow ficam em `fontes`. Coloque ali o arquivo final do grupo quando estiver disponível.
 
-As tabelas de treino estão em `docs/RESULTADOS.md`. O arquivo `FUNCIONAMENTO.md` descreve o conteúdo da entrega arquivo por arquivo.
+As tabelas de treino estão em `docs/RESULTADOS.md`.
