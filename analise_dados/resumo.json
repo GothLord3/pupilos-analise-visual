@@ -1,0 +1,33 @@
+{
+  "originais": 84,
+  "mistas": 20,
+  "por_divisao": {
+    "val": 19,
+    "train": 59,
+    "test": 6
+  },
+  "fontes_de_rotulo": {
+    "revisão visual pelo catálogo": 17,
+    "Roboflow": 67
+  },
+  "caixas_base_por_classe": {
+    "PBIA-01": 24,
+    "PBIA-015": 18,
+    "PBIA-02": 24,
+    "PBIA-025": 30,
+    "PBIA-03": 24,
+    "PBIA-04": 17,
+    "PBIA-05": 23,
+    "PBIA-06": 25
+  },
+  "variacoes": {
+    "rotacao": 64,
+    "luz-e-desfoque": 64,
+    "recorte-e-fundo": 64,
+    "saturacao": 140
+  },
+  "variacoes_de_treino": 201,
+  "variacoes_de_teste": 12,
+  "online": 5,
+  "imagens_sem_caixas": 2
+}

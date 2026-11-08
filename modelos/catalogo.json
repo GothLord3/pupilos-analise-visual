@@ -1,0 +1,77 @@
+{
+  "oficial": "nano-refinado",
+  "modelos": {
+    "piloto-controle": {
+      "pesos": "piloto-controle.pt",
+      "sha256": "7efd4a64c2607e9b04b2301bae11e134150716db450aeba9015039a221a00152",
+      "confianca": 0.5,
+      "tamanho": 640
+    },
+    "piloto-saturacao": {
+      "pesos": "piloto-saturacao.pt",
+      "sha256": "7bcf1b53fc6e5c57675fa58c40d76608e271f316f888de2289bb39ec6786439d",
+      "confianca": 0.5,
+      "tamanho": 640
+    },
+    "roboflow-inicial": {
+      "pesos": "roboflow-inicial.pt",
+      "sha256": "9d1efd600ad5a007b92496f4163b71d884588ff57387f1947244548a83dca6c7",
+      "confianca": 0.5,
+      "tamanho": 640
+    },
+    "roboflow-final": {
+      "pesos": "roboflow-final.pt",
+      "sha256": "a1c9cd4b44f272c4b43cd07ded1428655318e5280c3e4926e668d3e5899df9f3",
+      "confianca": 0.25,
+      "tamanho": 640
+    },
+    "roboflow-rotacao": {
+      "pesos": "roboflow-rotacao.pt",
+      "sha256": "9ddd64c569449b8d7cdc8428310ca0e0907fc39c30973911b68f3e87e0db039d",
+      "confianca": 0.3,
+      "tamanho": 640
+    },
+    "ampliado-historico": {
+      "pesos": "ampliado-historico.pt",
+      "sha256": "1f403dd6620d45445ce0df2ade06a0b6de5f636657753dcdcd2eca2890952bf9",
+      "confianca": 0.25,
+      "tamanho": 640
+    },
+    "ampliado-ajuste-historico": {
+      "pesos": "ampliado-ajuste-historico.pt",
+      "sha256": "ffc56579904858d0813a51e48c00445254e6aa9306b384190aa0366ed17f4cd7",
+      "confianca": 0.5,
+      "tamanho": 640
+    },
+    "ampliado-coco-historico": {
+      "pesos": "ampliado-coco-historico.pt",
+      "sha256": "425f055111a60fd90a67b8cdf31b4bc4b862d6dc8e922870fb7bba6ca3378352",
+      "confianca": 0.5,
+      "tamanho": 640
+    },
+    "ajuste": {
+      "pesos": "ajuste.pt",
+      "sha256": "7f1c32a7d7c4a29996b4be34598153d92176abcf118f6faec847fcb36847c757",
+      "confianca": 0.025,
+      "tamanho": 480
+    },
+    "ampliado": {
+      "pesos": "ampliado.pt",
+      "sha256": "3647de6256b4152a4d52bd471e44eac3ffbd7d71722c1e074c32830c2a479f1d",
+      "confianca": 0.075,
+      "tamanho": 320
+    },
+    "base": {
+      "pesos": "base.pt",
+      "sha256": "07cbab758ac071e7e1061a5bd9dbfe5887643b00dbd4284453a3404fd6488ee1",
+      "confianca": 0.01,
+      "tamanho": 320
+    },
+    "nano-refinado": {
+      "pesos": "nano-refinado.pt",
+      "sha256": "4250570520c0cc0b49da04a98f85d45993f17372eaa1cba05a99aa576d90d99f",
+      "confianca": 0.5,
+      "tamanho": 960
+    }
+  }
+}

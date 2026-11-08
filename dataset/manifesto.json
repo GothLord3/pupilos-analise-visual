@@ -1,0 +1,3182 @@
+{
+  "base": [
+    {
+      "imagem": "base/val/images/mesa-10.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-10.jpg",
+      "original_sha256": "8dd054441a38065d164f3bbfd7ea331685e2b2c7da958858cd6db2fd7611083d",
+      "tipo": "mista",
+      "divisao": "val",
+      "grupo": "mesa_arranjo_espalhado_validacao",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 5
+    },
+    {
+      "imagem": "base/train/images/mesa-11.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-11.jpg",
+      "original_sha256": "370352ff9b8eaced5c72164e908d6ec3a888a1392aba07a5b7e8ac37a6317f0c",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/train/images/mesa-12.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-12.jpg",
+      "original_sha256": "caef3e036e0874c6b690d8a00e728cee876f718574154faaf30627f87e021db8",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/train/images/mesa-13.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-13.jpg",
+      "original_sha256": "bb81d9c7e12a9d56d068351469fa318ddae6fb436a435dba2f21b081dfa80d4d",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/train/images/mesa-14.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-14.jpg",
+      "original_sha256": "ed97a4e555641fff69a681b45d39a8f80d184a63876130978ab4d47d15fc1bdd",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/train/images/mesa-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-01.jpg",
+      "original_sha256": "b2268a444a16f7e3f5156abd724b479c58a2b10aab364bc70012722e6ea2c717",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 5
+    },
+    {
+      "imagem": "base/train/images/mesa-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-02.jpg",
+      "original_sha256": "323291996f2a8bc9ed4ff90ccf87db1f66a482769779508adc7f49389d3d738c",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "Roboflow",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/val/images/mesa-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-03.jpg",
+      "original_sha256": "e2a493a10ce1b14927da936438556f381b55424dacb338600e3851d095cbae53",
+      "tipo": "mista",
+      "divisao": "val",
+      "grupo": "mesa_arranjo_espalhado_validacao",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 5
+    },
+    {
+      "imagem": "base/train/images/mesa-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-04.jpg",
+      "original_sha256": "cb5070c72c8a0bd9442bfe20b460d077a4e82a3f8dce7a618835347d3a8642c5",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/mesa-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-05.jpg",
+      "original_sha256": "a9d854a04647e4cef259193d95e1c36b917052b5973204ed594d53e8c820cf09",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 2
+    },
+    {
+      "imagem": "base/val/images/mesa-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-06.jpg",
+      "original_sha256": "d1d1ce5c3870038894e66082d46b1b008a60f2a4bb162d87c1a5b0e38552545f",
+      "tipo": "mista",
+      "divisao": "val",
+      "grupo": "mesa_arranjo_espalhado_validacao",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 5
+    },
+    {
+      "imagem": "base/train/images/mesa-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-07.jpg",
+      "original_sha256": "9cbb90e31916da14b962e6c9824c5e86de9ede3e7e8608669d5034e440639d08",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 3
+    },
+    {
+      "imagem": "base/train/images/mesa-08.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-08.jpg",
+      "original_sha256": "e2116f893d3d1a69f05dd567413c5d45659cacd8f56a739a7afbd8e8367650fd",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 0
+    },
+    {
+      "imagem": "base/train/images/mesa-09.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/mesa/mesa-09.jpg",
+      "original_sha256": "0ed935e546c33236716763465f8ffd551ea85b63519f37deee776b196d6d86c0",
+      "tipo": "mista",
+      "divisao": "train",
+      "grupo": "mesa_arranjos_treino",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/test/images/sofa-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-01.jpg",
+      "original_sha256": "c0589d47db24a7aa93f05483d358ef566955654f5ae2180c91b7e55b59abf979",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "Roboflow",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/test/images/sofa-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-02.jpg",
+      "original_sha256": "b3aa9534c4c7ebfffdaa846801956cc918d05eedef8a6d4ce676c3395a6df5d8",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "Roboflow",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/test/images/sofa-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-03.jpg",
+      "original_sha256": "ce8427ee3bd0a4299457ef36a4cfdb3607fe8c81a1823b6095882ec08297c49b",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 7
+    },
+    {
+      "imagem": "base/test/images/sofa-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-04.jpg",
+      "original_sha256": "4da0e6743a67e9e90c1aa2e6e5db7e665af01e61778d83c2589b36fa9a91d690",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/test/images/sofa-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-05.jpg",
+      "original_sha256": "275b94d3f52d5342bedf576b803527eafb0d2afb2e5f5e82db4dbde903005c4d",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 7
+    },
+    {
+      "imagem": "base/test/images/sofa-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/Mistas/sofa/sofa-06.jpg",
+      "original_sha256": "d40277bdfb36cbf23f2b52c5d0ece285e64ee038dd919f146fdac9da97522c0e",
+      "tipo": "mista",
+      "divisao": "test",
+      "grupo": "sofa_teste",
+      "anotacao": "revisão visual pelo catálogo",
+      "caixas": 8
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-01.jpg",
+      "original_sha256": "d6766fe5abded59fb751d5199730d7c606b972777122d956351c478388ebe907",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-02.jpg",
+      "original_sha256": "d1721c87e70329d5de7e66dfbc2b6487a7fba19d55b2512e203070c2d67344b2",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-03.jpg",
+      "original_sha256": "b08631bc5abd86e4cc04c286779db923aa29e7315c2f59614dcec20afe51b9f7",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-04.jpg",
+      "original_sha256": "209a7802f4ea85203505f1bb6e4f7721ac44ede41bfce3c330f7df9c6d170836",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-05.jpg",
+      "original_sha256": "0de2c89113f3aa5cb0a5928fae1e4035bc20d0479db0fd004d81bc7c7efe1cfb",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-06.jpg",
+      "original_sha256": "c943f5105c1ccf01c57ed7abc3ec990d09bcf480335350f3b4e500f9b77381f2",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 2
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-07.jpg",
+      "original_sha256": "f368aaaaa6452334aab45aa7acc2443bbbbdec33a3234548c83facf2ce2e38bb",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-01-08.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-08.jpg",
+      "original_sha256": "6dcbaf5d6db33a97449bdb8266bdbe656deefbe54a4338084f3ef10f42246a19",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-01_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-01-09.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-09.jpg",
+      "original_sha256": "25a191ec83353c2eb20861aeac65c36207f3ec38d9da31fe3a2962a55b811169",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-01_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-10.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-10.jpg",
+      "original_sha256": "43ba72e113a18301e4554ed788e09f5f248062748de5aeafed68c2f366651670",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-01-11.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-01/PBIA-01-11.jpg",
+      "original_sha256": "efc9bf40ecf0dafbeb05ab7eac5e3f62adcc9de9e95e5e48666143567698347c",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-01_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-015-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-01.jpeg",
+      "original_sha256": "010d1721a36f8d14711be5c901e26d5ea583eb150d0cce47aaee034945792325",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-015_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-015-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-02.jpeg",
+      "original_sha256": "897f4223235282a58017a8bfef14d3e8ff72c219e18dfe6eb2c27c95489cafeb",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-015_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-015-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-03.jpeg",
+      "original_sha256": "e0940b25bd114ca14a82aa356ef253d8a50ea6679efa5de1cd20a91f28c8e6ce",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-015_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-015-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-04.jpeg",
+      "original_sha256": "6517b48fb4ae237fcd87119203182cb4326dd2b40bf5d7e8e0f5e8b514727648",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-015_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-015-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-05.jpeg",
+      "original_sha256": "d00a1612a5e6d025038944932af06f170dc9c671320e3780e4e1e4ec0cd82f39",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-015_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-015-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-015/PBIA-015-06.jpeg",
+      "original_sha256": "b5a7c322e4b78ca452f2026e10a5eb77aefd150e1e868eff8fcf271cfa9bc4cf",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-015_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-01.jpeg",
+      "original_sha256": "b161f44184cc4e6b740faa25efe3ced97454301d9f887478d10ff50c529171f6",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-02.jpeg",
+      "original_sha256": "31662678ebc1388e16ca6d4761aa093df58a102fde9f4cadcb25baeeb9356fca",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-03.jpeg",
+      "original_sha256": "3a039ec0050e6fefe1370e2ec640632010c5e1727f6d00d8ef77b5ef1e5275dd",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-04.jpeg",
+      "original_sha256": "3de4b73a7b2c128a3c25e1f9dbf1074f5345ca0f38fe0aa513c020a565eb32ba",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-05.jpeg",
+      "original_sha256": "8abb962ceedad3969b2f5ed52a76e0a1122c8479cb9d68716675b675f27faf72",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-02-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-06.jpeg",
+      "original_sha256": "f0fdd69a20aecc56d16d41d55094b88c7168c24efa2f5e14dde197a6f0e9f22b",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-02_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-02-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-07.jpeg",
+      "original_sha256": "d7bf78fe9c206d1533999178b53c263e59794d9cd229ccd8621b3a8ee49a719d",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-02_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-02-08.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-02/PBIA-02-08.jpeg",
+      "original_sha256": "4b427e1a68eb317c158fd0987d07f62346ad537dec37882f1512ad193daa6df1",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-02_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-01.jpeg",
+      "original_sha256": "f20297648b9d1c449b82ead2aa60a2bc1ef0702ca1ba53dd5710d2cc74e73880",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-02.jpeg",
+      "original_sha256": "b950a4cd71fcf8eb4db2c56fa9ec1451ab055c35923e0e253312f62dcdab8e7f",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-03.jpeg",
+      "original_sha256": "9eca564cb3c796e99a19ea22380a00f3f5b2fdd8e45595d5f95beb02f3c51fe7",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-04.jpeg",
+      "original_sha256": "e28edaeea05ac61082f24bdbe39224e9602f90edddfa53ea49e9e191f50bd4cc",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-05.jpeg",
+      "original_sha256": "c8cab2e1b0958942627f020d7c1926c1b5e278e45e5d767d08297e05ee01091e",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-025-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-06.jpeg",
+      "original_sha256": "f8dc93e6fc367213aa75549541b08c1bd67e3cf05252b29f401a0a38357b2920",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-025_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-07.jpeg",
+      "original_sha256": "a8d196225e4f3c098bb694685805fdab85fcf8e090903dcd3d0dbb6197f359f6",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-08.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-08.jpeg",
+      "original_sha256": "47355907a19b76029ac0b848be7e57fc9362a49367bb83eecc1ce7c6adde2bf4",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-09.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-09.jpeg",
+      "original_sha256": "ef90dd816520571cc5a4cb303f4acc58526b1ae326654dfba3b08c0f326a8e16",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-025-10.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-10.jpeg",
+      "original_sha256": "e292f4cc25055e146fb530b0fe49b6cd2d57529a2b48e92213afd38c069e331c",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-025_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-025-11.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-025/PBIA-025-11.jpeg",
+      "original_sha256": "8913c6d14a4dc6b5e23f8ada2874d883da9b9df816e9d843fab1dbb47c4323af",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-025_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-03-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-01.jpeg",
+      "original_sha256": "19f873d3986104f7dc3f605e1d404f3fef320beb1952a156b64435dcde769bd5",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-03_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-03-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-02.jpeg",
+      "original_sha256": "9e0f152ee31719bef75b5057c47ca601fe044af9ab3c65e2dccf4f8dde505ef1",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-03_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-03-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-03.jpeg",
+      "original_sha256": "b2966f892a08b4ea59caed963d90a675043332b8f34842981874b5841f5e598c",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-03_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-03-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-04.jpeg",
+      "original_sha256": "f8f6b8db050f7f384a4a3b71611794843347a57e67ebe8213281d8ecb6632bc7",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-03_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-03-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-05.jpeg",
+      "original_sha256": "e9130a45ed864a919b404e272f6acdc712310be708fc405ff3700d97b64fd6aa",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-03_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-03-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-06.jpeg",
+      "original_sha256": "cadbc598e28e0cf192282719130a02cace39351ee6fa08a4278b66589bb4c857",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-03_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-03-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-03/PBIA-03-07.jpeg",
+      "original_sha256": "35ecd510c74311783a22229ac9f60c8ee67e7b07caec9a83f30c353a42810ebc",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-03_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-04-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-01.jpeg",
+      "original_sha256": "cd91f949102d2d3c8ac96de72ae12bc7d5179700b84f4d2b3bf0840118627133",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-04_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-04-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-02.jpeg",
+      "original_sha256": "bc4a7bd77a9b18ff716e5177ce00b06a697dad4f5bd2e5731ab1f62e20d189c1",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-04_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-04-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-03.jpeg",
+      "original_sha256": "310725d651b7a5c0226d16c8023814bdc3250b6b93fd6a0bf5989fc54a6aaeb3",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-04_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-04-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-04.jpeg",
+      "original_sha256": "2a705325a3930add28c7f73280fc3b09f42a10c8c7b67c5ab6f64d43ad5e46fe",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-04_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-04-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-05.jpeg",
+      "original_sha256": "bafe0d646e399d00afa6c31113553dac69490dcea49387e6ef7e29727b7d43f4",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-04_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-04-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-06.jpeg",
+      "original_sha256": "0721db3327896cfa9f83e4bf761cf3403f85de3b50f652b0f44acd9ebaf098ed",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-04_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-04-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-04/PBIA-04-07.jpeg",
+      "original_sha256": "94cd2d5ebb0a96a8d27afc7175d36260e36aa56dbb43a7c02ed8256648d76b4e",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-04_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-05-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-01.jpeg",
+      "original_sha256": "d6db7cb533362a549b7a658ec82ca8ee7253933db65320ad9a065680e1363320",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-05_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-05-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-02.jpeg",
+      "original_sha256": "88332ad73d26b77b975c29d8f9993be3fb67f99ab7b837c3c6d51fe5b8e6af39",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-05_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-05-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-03.jpeg",
+      "original_sha256": "2532da1ce7e653550848e61c9e4e0a27770aafd98a1d184b2d2c47f8448f8251",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-05_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-05-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-04.jpeg",
+      "original_sha256": "b6f37418d16242088ab7db2b01f9cbd41da2c0e57aa9df186d28dfd3ba88a009",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-05_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-05-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-05.jpeg",
+      "original_sha256": "b1645be0a44c5bdc3c6b712cda64adfa125e68f1c2cb892926f8b1f03e11eda7",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-05_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-05-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-06.jpeg",
+      "original_sha256": "a73d6e7364152af0a9a67bd1da4ea48599605947badec9c0b977a635e12e18a0",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-05_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-05-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-05/PBIA-05-07.jpeg",
+      "original_sha256": "5f4ec6e5ed05e6e943f5bfd600254e383824a718c3f28887d0411da7b2754d87",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-05_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-06-01.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-01.jpeg",
+      "original_sha256": "82e66c7feb17d16fd7aaae3e16a85140c42e44fa5c1ac16e73da2fb15b86ad7e",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-08_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-06-02.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-02.jpeg",
+      "original_sha256": "a8c8b791889880bd168fefe4abcba3ece931fcbe29c67c2201af4fd30be083ee",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-08_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-06-03.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-03.jpeg",
+      "original_sha256": "45e3438a6f6d21d355e36deb20683fbacacf1350d53664bcdfaf465ab9be31a2",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-08_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-06-04.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-04.jpeg",
+      "original_sha256": "ece800438ace7d12a71857b24b1ff1b0c94eb1c06e38afbd29b7ff9f6db2b524",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-08_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-06-05.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-05.jpeg",
+      "original_sha256": "b40ff595cf8a3e7b0f31f14cb61e6b2eb3c1099946ea54f5412902f7ae54201b",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-08_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/train/images/PBIA-06-06.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-06.jpeg",
+      "original_sha256": "e9da549542c611993789f847400eefd3e9ad6c808fb5df1a226febb1ff07a33b",
+      "tipo": "individual",
+      "divisao": "train",
+      "grupo": "PBIA-08_vistas_treino",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    },
+    {
+      "imagem": "base/val/images/PBIA-06-07.jpg",
+      "original": "Bicos de Pulverização/PB-IA/PBIA-06/PBIA-06-07.jpeg",
+      "original_sha256": "208fe507473021099c7dc89083ce02ed0f92d4b833dbea2b3ec756c8ce79e0e0",
+      "tipo": "individual",
+      "divisao": "val",
+      "grupo": "PBIA-08_vista_superior_reservada",
+      "anotacao": "Roboflow",
+      "caixas": 1
+    }
+  ],
+  "variacoes": [
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-01.jpg",
+      "fundo": "base/val/images/PBIA-025-06.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-01.jpg",
+      "fundo": "base/val/images/PBIA-025-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-01.jpg",
+      "fundo": "base/val/images/PBIA-025-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-02.jpg",
+      "fundo": "base/train/images/PBIA-04-05.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-02.jpg",
+      "fundo": "base/train/images/PBIA-04-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-02.jpg",
+      "fundo": "base/train/images/PBIA-04-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-03.jpg",
+      "fundo": "base/train/images/PBIA-06-01.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-03.jpg",
+      "fundo": "base/train/images/PBIA-06-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-03.jpg",
+      "fundo": "base/train/images/PBIA-06-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-04-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-04.jpg",
+      "fundo": "base/train/images/PBIA-01-11.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-04-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-04.jpg",
+      "fundo": "base/train/images/PBIA-01-11.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-04-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-04.jpg",
+      "fundo": "base/train/images/PBIA-01-11.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-05.jpg",
+      "fundo": "base/train/images/PBIA-025-10.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-05.jpg",
+      "fundo": "base/train/images/PBIA-025-10.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-05.jpg",
+      "fundo": "base/train/images/PBIA-025-10.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-06-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-06.jpg",
+      "fundo": "base/train/images/PBIA-02-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-06-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-06.jpg",
+      "fundo": "base/train/images/PBIA-02-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-06-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-06.jpg",
+      "fundo": "base/train/images/PBIA-02-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-07-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-07.jpg",
+      "fundo": "base/train/images/PBIA-06-05.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-07-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-07.jpg",
+      "fundo": "base/train/images/PBIA-06-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-07-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-07.jpg",
+      "fundo": "base/train/images/PBIA-06-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-08-rotacao.jpg",
+      "origem": "base/val/images/PBIA-01-08.jpg",
+      "fundo": "base/val/images/PBIA-03-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-08-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-01-08.jpg",
+      "fundo": "base/val/images/PBIA-03-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-08-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-01-08.jpg",
+      "fundo": "base/val/images/PBIA-03-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-09-rotacao.jpg",
+      "origem": "base/val/images/PBIA-01-09.jpg",
+      "fundo": "base/train/images/PBIA-05-03.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-09-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-01-09.jpg",
+      "fundo": "base/train/images/PBIA-05-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-09-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-01-09.jpg",
+      "fundo": "base/train/images/PBIA-05-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-10-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-10.jpg",
+      "fundo": "base/val/images/PBIA-02-06.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-10-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-10.jpg",
+      "fundo": "base/val/images/PBIA-02-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-10-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-10.jpg",
+      "fundo": "base/val/images/PBIA-02-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-01-11-rotacao.jpg",
+      "origem": "base/train/images/PBIA-01-11.jpg",
+      "fundo": "base/train/images/PBIA-01-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-01-11-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-01-11.jpg",
+      "fundo": "base/train/images/PBIA-01-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-01-11-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-01-11.jpg",
+      "fundo": "base/train/images/PBIA-01-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-01-rotacao.jpg",
+      "origem": "base/val/images/PBIA-03-01.jpg",
+      "fundo": "base/train/images/PBIA-025-01.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-01-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-03-01.jpg",
+      "fundo": "base/train/images/PBIA-025-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-01-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-03-01.jpg",
+      "fundo": "base/train/images/PBIA-025-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-03-02.jpg",
+      "fundo": "base/val/images/PBIA-05-07.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-03-02.jpg",
+      "fundo": "base/val/images/PBIA-05-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-03-02.jpg",
+      "fundo": "base/val/images/PBIA-05-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-03-03.jpg",
+      "fundo": "base/train/images/PBIA-015-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-03-03.jpg",
+      "fundo": "base/train/images/PBIA-015-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-03-03.jpg",
+      "fundo": "base/train/images/PBIA-015-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-04-rotacao.jpg",
+      "origem": "base/val/images/PBIA-03-04.jpg",
+      "fundo": "base/train/images/PBIA-01-06.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-04-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-03-04.jpg",
+      "fundo": "base/train/images/PBIA-01-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-04-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-03-04.jpg",
+      "fundo": "base/train/images/PBIA-01-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-03-05.jpg",
+      "fundo": "base/train/images/PBIA-025-05.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-03-05.jpg",
+      "fundo": "base/train/images/PBIA-025-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-03-05.jpg",
+      "fundo": "base/train/images/PBIA-025-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-06-rotacao.jpg",
+      "origem": "base/train/images/PBIA-03-06.jpg",
+      "fundo": "base/val/images/PBIA-04-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-06-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-03-06.jpg",
+      "fundo": "base/val/images/PBIA-04-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-06-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-03-06.jpg",
+      "fundo": "base/val/images/PBIA-04-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-03-07-rotacao.jpg",
+      "origem": "base/train/images/PBIA-03-07.jpg",
+      "fundo": "base/val/images/PBIA-015-06.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-03-07-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-03-07.jpg",
+      "fundo": "base/val/images/PBIA-015-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-03-07-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-03-07.jpg",
+      "fundo": "base/val/images/PBIA-015-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-01.jpg",
+      "fundo": "base/train/images/PBIA-01-10.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-01.jpg",
+      "fundo": "base/train/images/PBIA-01-10.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-01.jpg",
+      "fundo": "base/train/images/PBIA-01-10.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-02.jpg",
+      "fundo": "base/train/images/PBIA-025-09.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-02.jpg",
+      "fundo": "base/train/images/PBIA-025-09.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-02.jpg",
+      "fundo": "base/train/images/PBIA-025-09.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-03.jpg",
+      "fundo": "base/train/images/PBIA-02-01.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-03.jpg",
+      "fundo": "base/train/images/PBIA-02-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-03.jpg",
+      "fundo": "base/train/images/PBIA-02-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-04-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-04.jpg",
+      "fundo": "base/val/images/PBIA-06-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-04-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-04.jpg",
+      "fundo": "base/val/images/PBIA-06-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-04-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-04.jpg",
+      "fundo": "base/val/images/PBIA-06-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-05.jpg",
+      "fundo": "base/train/images/PBIA-03-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-05.jpg",
+      "fundo": "base/train/images/PBIA-03-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-05.jpg",
+      "fundo": "base/train/images/PBIA-03-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-06-rotacao.jpg",
+      "origem": "base/val/images/PBIA-025-06.jpg",
+      "fundo": "base/train/images/PBIA-05-02.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-06-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-025-06.jpg",
+      "fundo": "base/train/images/PBIA-05-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-06-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-025-06.jpg",
+      "fundo": "base/train/images/PBIA-05-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-07-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-07.jpg",
+      "fundo": "base/train/images/PBIA-02-05.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-07-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-07.jpg",
+      "fundo": "base/train/images/PBIA-02-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-07-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-07.jpg",
+      "fundo": "base/train/images/PBIA-02-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-08-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-08.jpg",
+      "fundo": "base/train/images/PBIA-01-01.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-08-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-08.jpg",
+      "fundo": "base/train/images/PBIA-01-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-08-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-08.jpg",
+      "fundo": "base/train/images/PBIA-01-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-09-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-09.jpg",
+      "fundo": "base/train/images/PBIA-03-07.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-09-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-09.jpg",
+      "fundo": "base/train/images/PBIA-03-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-09-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-09.jpg",
+      "fundo": "base/train/images/PBIA-03-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-10-rotacao.jpg",
+      "origem": "base/train/images/PBIA-025-10.jpg",
+      "fundo": "base/train/images/PBIA-05-06.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-10-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-025-10.jpg",
+      "fundo": "base/train/images/PBIA-05-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-10-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-025-10.jpg",
+      "fundo": "base/train/images/PBIA-05-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-025-11-rotacao.jpg",
+      "origem": "base/val/images/PBIA-025-11.jpg",
+      "fundo": "base/train/images/PBIA-015-01.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-025-11-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-025-11.jpg",
+      "fundo": "base/train/images/PBIA-015-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-025-11-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-025-11.jpg",
+      "fundo": "base/train/images/PBIA-015-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-05-01.jpg",
+      "fundo": "base/train/images/PBIA-01-05.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-05-01.jpg",
+      "fundo": "base/train/images/PBIA-01-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-05-01.jpg",
+      "fundo": "base/train/images/PBIA-01-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-05-02.jpg",
+      "fundo": "base/train/images/PBIA-025-04.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-05-02.jpg",
+      "fundo": "base/train/images/PBIA-025-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-05-02.jpg",
+      "fundo": "base/train/images/PBIA-025-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-05-03.jpg",
+      "fundo": "base/train/images/PBIA-04-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-05-03.jpg",
+      "fundo": "base/train/images/PBIA-04-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-05-03.jpg",
+      "fundo": "base/train/images/PBIA-04-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-04-rotacao.jpg",
+      "origem": "base/val/images/PBIA-05-04.jpg",
+      "fundo": "base/train/images/PBIA-015-05.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-04-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-05-04.jpg",
+      "fundo": "base/train/images/PBIA-015-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-04-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-05-04.jpg",
+      "fundo": "base/train/images/PBIA-015-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-05-05.jpg",
+      "fundo": "base/val/images/PBIA-01-09.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-05-05.jpg",
+      "fundo": "base/val/images/PBIA-01-09.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-05-05.jpg",
+      "fundo": "base/val/images/PBIA-01-09.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-06-rotacao.jpg",
+      "origem": "base/train/images/PBIA-05-06.jpg",
+      "fundo": "base/train/images/PBIA-025-08.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-06-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-05-06.jpg",
+      "fundo": "base/train/images/PBIA-025-08.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-06-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-05-06.jpg",
+      "fundo": "base/train/images/PBIA-025-08.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-05-07-rotacao.jpg",
+      "origem": "base/val/images/PBIA-05-07.jpg",
+      "fundo": "base/val/images/PBIA-04-07.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-05-07-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-05-07.jpg",
+      "fundo": "base/val/images/PBIA-04-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-05-07-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-05-07.jpg",
+      "fundo": "base/val/images/PBIA-04-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-04-01.jpg",
+      "fundo": "base/train/images/PBIA-06-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-04-01.jpg",
+      "fundo": "base/train/images/PBIA-06-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-04-01.jpg",
+      "fundo": "base/train/images/PBIA-06-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-04-02.jpg",
+      "fundo": "base/train/images/PBIA-03-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-04-02.jpg",
+      "fundo": "base/train/images/PBIA-03-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-04-02.jpg",
+      "fundo": "base/train/images/PBIA-03-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-04-03.jpg",
+      "fundo": "base/train/images/PBIA-05-01.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-04-03.jpg",
+      "fundo": "base/train/images/PBIA-05-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-04-03.jpg",
+      "fundo": "base/train/images/PBIA-05-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-04-rotacao.jpg",
+      "origem": "base/val/images/PBIA-04-04.jpg",
+      "fundo": "base/train/images/PBIA-02-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-04-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-04-04.jpg",
+      "fundo": "base/train/images/PBIA-02-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-04-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-04-04.jpg",
+      "fundo": "base/train/images/PBIA-02-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-04-05.jpg",
+      "fundo": "base/val/images/PBIA-06-07.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-04-05.jpg",
+      "fundo": "base/val/images/PBIA-06-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-04-05.jpg",
+      "fundo": "base/val/images/PBIA-06-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-06-rotacao.jpg",
+      "origem": "base/train/images/PBIA-04-06.jpg",
+      "fundo": "base/train/images/PBIA-03-06.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-06-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-04-06.jpg",
+      "fundo": "base/train/images/PBIA-03-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-06-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-04-06.jpg",
+      "fundo": "base/train/images/PBIA-03-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-04-07-rotacao.jpg",
+      "origem": "base/val/images/PBIA-04-07.jpg",
+      "fundo": "base/train/images/PBIA-05-05.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-04-07-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-04-07.jpg",
+      "fundo": "base/train/images/PBIA-05-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-04-07-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-04-07.jpg",
+      "fundo": "base/train/images/PBIA-05-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-01.jpg",
+      "fundo": "base/val/images/PBIA-02-08.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-01.jpg",
+      "fundo": "base/val/images/PBIA-02-08.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-01.jpg",
+      "fundo": "base/val/images/PBIA-02-08.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-02.jpg",
+      "fundo": "base/train/images/PBIA-01-04.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-02.jpg",
+      "fundo": "base/train/images/PBIA-01-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-02.jpg",
+      "fundo": "base/train/images/PBIA-01-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-03.jpg",
+      "fundo": "base/train/images/PBIA-025-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-03.jpg",
+      "fundo": "base/train/images/PBIA-025-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-03.jpg",
+      "fundo": "base/train/images/PBIA-025-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-04-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-04.jpg",
+      "fundo": "base/train/images/PBIA-04-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-04-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-04.jpg",
+      "fundo": "base/train/images/PBIA-04-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-04-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-04.jpg",
+      "fundo": "base/train/images/PBIA-04-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-05.jpg",
+      "fundo": "base/val/images/PBIA-015-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-05.jpg",
+      "fundo": "base/val/images/PBIA-015-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-05.jpg",
+      "fundo": "base/val/images/PBIA-015-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-06-rotacao.jpg",
+      "origem": "base/val/images/PBIA-02-06.jpg",
+      "fundo": "base/val/images/PBIA-01-08.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-06-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-02-06.jpg",
+      "fundo": "base/val/images/PBIA-01-08.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-06-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-02-06.jpg",
+      "fundo": "base/val/images/PBIA-01-08.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-07-rotacao.jpg",
+      "origem": "base/train/images/PBIA-02-07.jpg",
+      "fundo": "base/train/images/PBIA-025-07.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-07-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-02-07.jpg",
+      "fundo": "base/train/images/PBIA-025-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-07-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-02-07.jpg",
+      "fundo": "base/train/images/PBIA-025-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-02-08-rotacao.jpg",
+      "origem": "base/val/images/PBIA-02-08.jpg",
+      "fundo": "base/train/images/PBIA-04-06.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-02-08-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-02-08.jpg",
+      "fundo": "base/train/images/PBIA-04-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-02-08-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-02-08.jpg",
+      "fundo": "base/train/images/PBIA-04-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-015-01.jpg",
+      "fundo": "base/train/images/PBIA-06-02.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-015-01.jpg",
+      "fundo": "base/train/images/PBIA-06-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-015-01.jpg",
+      "fundo": "base/train/images/PBIA-06-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-015-02.jpg",
+      "fundo": "base/val/images/PBIA-03-01.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-015-02.jpg",
+      "fundo": "base/val/images/PBIA-03-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-015-02.jpg",
+      "fundo": "base/val/images/PBIA-03-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-015-03.jpg",
+      "fundo": "base/val/images/PBIA-025-11.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-015-03.jpg",
+      "fundo": "base/val/images/PBIA-025-11.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-015-03.jpg",
+      "fundo": "base/val/images/PBIA-025-11.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-04-rotacao.jpg",
+      "origem": "base/val/images/PBIA-015-04.jpg",
+      "fundo": "base/train/images/PBIA-02-03.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-04-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-015-04.jpg",
+      "fundo": "base/train/images/PBIA-02-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-04-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-015-04.jpg",
+      "fundo": "base/train/images/PBIA-02-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-015-05.jpg",
+      "fundo": "base/train/images/PBIA-06-06.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-015-05.jpg",
+      "fundo": "base/train/images/PBIA-06-06.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-015-05.jpg",
+      "fundo": "base/train/images/PBIA-06-06.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-015-06-rotacao.jpg",
+      "origem": "base/val/images/PBIA-015-06.jpg",
+      "fundo": "base/train/images/PBIA-03-05.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-015-06-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-015-06.jpg",
+      "fundo": "base/train/images/PBIA-03-05.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-015-06-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-015-06.jpg",
+      "fundo": "base/train/images/PBIA-03-05.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-01-rotacao.jpg",
+      "origem": "base/train/images/PBIA-06-01.jpg",
+      "fundo": "base/val/images/PBIA-05-04.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-01-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-06-01.jpg",
+      "fundo": "base/val/images/PBIA-05-04.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-01-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-06-01.jpg",
+      "fundo": "base/val/images/PBIA-05-04.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-02-rotacao.jpg",
+      "origem": "base/train/images/PBIA-06-02.jpg",
+      "fundo": "base/train/images/PBIA-02-07.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-02-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-06-02.jpg",
+      "fundo": "base/train/images/PBIA-02-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-02-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-06-02.jpg",
+      "fundo": "base/train/images/PBIA-02-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-03-rotacao.jpg",
+      "origem": "base/train/images/PBIA-06-03.jpg",
+      "fundo": "base/train/images/PBIA-01-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-03-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-06-03.jpg",
+      "fundo": "base/train/images/PBIA-01-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-03-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-06-03.jpg",
+      "fundo": "base/train/images/PBIA-01-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-04-rotacao.jpg",
+      "origem": "base/val/images/PBIA-06-04.jpg",
+      "fundo": "base/train/images/PBIA-025-02.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-04-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-06-04.jpg",
+      "fundo": "base/train/images/PBIA-025-02.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-04-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-06-04.jpg",
+      "fundo": "base/train/images/PBIA-025-02.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-05-rotacao.jpg",
+      "origem": "base/train/images/PBIA-06-05.jpg",
+      "fundo": "base/train/images/PBIA-04-01.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-05-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-06-05.jpg",
+      "fundo": "base/train/images/PBIA-04-01.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-05-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-06-05.jpg",
+      "fundo": "base/train/images/PBIA-04-01.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-06-rotacao.jpg",
+      "origem": "base/train/images/PBIA-06-06.jpg",
+      "fundo": "base/train/images/PBIA-015-03.jpg",
+      "transformacao": "rotacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-06-luz-e-desfoque.jpg",
+      "origem": "base/train/images/PBIA-06-06.jpg",
+      "fundo": "base/train/images/PBIA-015-03.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-06-recorte-e-fundo.jpg",
+      "origem": "base/train/images/PBIA-06-06.jpg",
+      "fundo": "base/train/images/PBIA-015-03.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/rotacao/images/PBIA-06-07-rotacao.jpg",
+      "origem": "base/val/images/PBIA-06-07.jpg",
+      "fundo": "base/train/images/PBIA-01-07.jpg",
+      "transformacao": "rotacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/luz-e-desfoque/images/PBIA-06-07-luz-e-desfoque.jpg",
+      "origem": "base/val/images/PBIA-06-07.jpg",
+      "fundo": "base/train/images/PBIA-01-07.jpg",
+      "transformacao": "luz-e-desfoque",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/recorte-e-fundo/images/PBIA-06-07-recorte-e-fundo.jpg",
+      "origem": "base/val/images/PBIA-06-07.jpg",
+      "fundo": "base/train/images/PBIA-01-07.jpg",
+      "transformacao": "recorte-e-fundo",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-01.jpg",
+      "fundo": "base/train/images/PBIA-01-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-01.jpg",
+      "fundo": "base/train/images/PBIA-01-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-02.jpg",
+      "fundo": "base/train/images/PBIA-01-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-02.jpg",
+      "fundo": "base/train/images/PBIA-01-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-03.jpg",
+      "fundo": "base/train/images/PBIA-01-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-03.jpg",
+      "fundo": "base/train/images/PBIA-01-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-04-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-04.jpg",
+      "fundo": "base/train/images/PBIA-01-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-04-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-04.jpg",
+      "fundo": "base/train/images/PBIA-01-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-05.jpg",
+      "fundo": "base/train/images/PBIA-01-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-05.jpg",
+      "fundo": "base/train/images/PBIA-01-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-06-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-06.jpg",
+      "fundo": "base/train/images/PBIA-01-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-06-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-06.jpg",
+      "fundo": "base/train/images/PBIA-01-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-07-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-07.jpg",
+      "fundo": "base/train/images/PBIA-01-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-07-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-07.jpg",
+      "fundo": "base/train/images/PBIA-01-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-08-0p8.jpg",
+      "origem": "base/val/images/PBIA-01-08.jpg",
+      "fundo": "base/val/images/PBIA-01-08.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-08-1p2.jpg",
+      "origem": "base/val/images/PBIA-01-08.jpg",
+      "fundo": "base/val/images/PBIA-01-08.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-09-0p8.jpg",
+      "origem": "base/val/images/PBIA-01-09.jpg",
+      "fundo": "base/val/images/PBIA-01-09.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-09-1p2.jpg",
+      "origem": "base/val/images/PBIA-01-09.jpg",
+      "fundo": "base/val/images/PBIA-01-09.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-10-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-10.jpg",
+      "fundo": "base/train/images/PBIA-01-10.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-10-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-10.jpg",
+      "fundo": "base/train/images/PBIA-01-10.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-11-0p8.jpg",
+      "origem": "base/train/images/PBIA-01-11.jpg",
+      "fundo": "base/train/images/PBIA-01-11.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-01-11-1p2.jpg",
+      "origem": "base/train/images/PBIA-01-11.jpg",
+      "fundo": "base/train/images/PBIA-01-11.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-01-0p8.jpg",
+      "origem": "base/val/images/PBIA-03-01.jpg",
+      "fundo": "base/val/images/PBIA-03-01.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-01-1p2.jpg",
+      "origem": "base/val/images/PBIA-03-01.jpg",
+      "fundo": "base/val/images/PBIA-03-01.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-03-02.jpg",
+      "fundo": "base/train/images/PBIA-03-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-03-02.jpg",
+      "fundo": "base/train/images/PBIA-03-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-03-03.jpg",
+      "fundo": "base/train/images/PBIA-03-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-03-03.jpg",
+      "fundo": "base/train/images/PBIA-03-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-04-0p8.jpg",
+      "origem": "base/val/images/PBIA-03-04.jpg",
+      "fundo": "base/val/images/PBIA-03-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-04-1p2.jpg",
+      "origem": "base/val/images/PBIA-03-04.jpg",
+      "fundo": "base/val/images/PBIA-03-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-03-05.jpg",
+      "fundo": "base/train/images/PBIA-03-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-03-05.jpg",
+      "fundo": "base/train/images/PBIA-03-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-06-0p8.jpg",
+      "origem": "base/train/images/PBIA-03-06.jpg",
+      "fundo": "base/train/images/PBIA-03-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-06-1p2.jpg",
+      "origem": "base/train/images/PBIA-03-06.jpg",
+      "fundo": "base/train/images/PBIA-03-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-07-0p8.jpg",
+      "origem": "base/train/images/PBIA-03-07.jpg",
+      "fundo": "base/train/images/PBIA-03-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-03-07-1p2.jpg",
+      "origem": "base/train/images/PBIA-03-07.jpg",
+      "fundo": "base/train/images/PBIA-03-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-01.jpg",
+      "fundo": "base/train/images/PBIA-025-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-01.jpg",
+      "fundo": "base/train/images/PBIA-025-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-02.jpg",
+      "fundo": "base/train/images/PBIA-025-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-02.jpg",
+      "fundo": "base/train/images/PBIA-025-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-03.jpg",
+      "fundo": "base/train/images/PBIA-025-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-03.jpg",
+      "fundo": "base/train/images/PBIA-025-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-04-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-04.jpg",
+      "fundo": "base/train/images/PBIA-025-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-04-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-04.jpg",
+      "fundo": "base/train/images/PBIA-025-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-05.jpg",
+      "fundo": "base/train/images/PBIA-025-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-05.jpg",
+      "fundo": "base/train/images/PBIA-025-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-06-0p8.jpg",
+      "origem": "base/val/images/PBIA-025-06.jpg",
+      "fundo": "base/val/images/PBIA-025-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-06-1p2.jpg",
+      "origem": "base/val/images/PBIA-025-06.jpg",
+      "fundo": "base/val/images/PBIA-025-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-07-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-07.jpg",
+      "fundo": "base/train/images/PBIA-025-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-07-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-07.jpg",
+      "fundo": "base/train/images/PBIA-025-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-08-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-08.jpg",
+      "fundo": "base/train/images/PBIA-025-08.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-08-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-08.jpg",
+      "fundo": "base/train/images/PBIA-025-08.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-09-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-09.jpg",
+      "fundo": "base/train/images/PBIA-025-09.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-09-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-09.jpg",
+      "fundo": "base/train/images/PBIA-025-09.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-10-0p8.jpg",
+      "origem": "base/train/images/PBIA-025-10.jpg",
+      "fundo": "base/train/images/PBIA-025-10.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-10-1p2.jpg",
+      "origem": "base/train/images/PBIA-025-10.jpg",
+      "fundo": "base/train/images/PBIA-025-10.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-11-0p8.jpg",
+      "origem": "base/val/images/PBIA-025-11.jpg",
+      "fundo": "base/val/images/PBIA-025-11.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-025-11-1p2.jpg",
+      "origem": "base/val/images/PBIA-025-11.jpg",
+      "fundo": "base/val/images/PBIA-025-11.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-05-01.jpg",
+      "fundo": "base/train/images/PBIA-05-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-05-01.jpg",
+      "fundo": "base/train/images/PBIA-05-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-05-02.jpg",
+      "fundo": "base/train/images/PBIA-05-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-05-02.jpg",
+      "fundo": "base/train/images/PBIA-05-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-05-03.jpg",
+      "fundo": "base/train/images/PBIA-05-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-05-03.jpg",
+      "fundo": "base/train/images/PBIA-05-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-04-0p8.jpg",
+      "origem": "base/val/images/PBIA-05-04.jpg",
+      "fundo": "base/val/images/PBIA-05-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-04-1p2.jpg",
+      "origem": "base/val/images/PBIA-05-04.jpg",
+      "fundo": "base/val/images/PBIA-05-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-05-05.jpg",
+      "fundo": "base/train/images/PBIA-05-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-05-05.jpg",
+      "fundo": "base/train/images/PBIA-05-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-06-0p8.jpg",
+      "origem": "base/train/images/PBIA-05-06.jpg",
+      "fundo": "base/train/images/PBIA-05-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-06-1p2.jpg",
+      "origem": "base/train/images/PBIA-05-06.jpg",
+      "fundo": "base/train/images/PBIA-05-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-07-0p8.jpg",
+      "origem": "base/val/images/PBIA-05-07.jpg",
+      "fundo": "base/val/images/PBIA-05-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-05-07-1p2.jpg",
+      "origem": "base/val/images/PBIA-05-07.jpg",
+      "fundo": "base/val/images/PBIA-05-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-04-01.jpg",
+      "fundo": "base/train/images/PBIA-04-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-04-01.jpg",
+      "fundo": "base/train/images/PBIA-04-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-04-02.jpg",
+      "fundo": "base/train/images/PBIA-04-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-04-02.jpg",
+      "fundo": "base/train/images/PBIA-04-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-04-03.jpg",
+      "fundo": "base/train/images/PBIA-04-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-04-03.jpg",
+      "fundo": "base/train/images/PBIA-04-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-04-0p8.jpg",
+      "origem": "base/val/images/PBIA-04-04.jpg",
+      "fundo": "base/val/images/PBIA-04-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-04-1p2.jpg",
+      "origem": "base/val/images/PBIA-04-04.jpg",
+      "fundo": "base/val/images/PBIA-04-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-04-05.jpg",
+      "fundo": "base/train/images/PBIA-04-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-04-05.jpg",
+      "fundo": "base/train/images/PBIA-04-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-06-0p8.jpg",
+      "origem": "base/train/images/PBIA-04-06.jpg",
+      "fundo": "base/train/images/PBIA-04-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-06-1p2.jpg",
+      "origem": "base/train/images/PBIA-04-06.jpg",
+      "fundo": "base/train/images/PBIA-04-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-07-0p8.jpg",
+      "origem": "base/val/images/PBIA-04-07.jpg",
+      "fundo": "base/val/images/PBIA-04-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-04-07-1p2.jpg",
+      "origem": "base/val/images/PBIA-04-07.jpg",
+      "fundo": "base/val/images/PBIA-04-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-01.jpg",
+      "fundo": "base/train/images/PBIA-02-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-01.jpg",
+      "fundo": "base/train/images/PBIA-02-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-02.jpg",
+      "fundo": "base/train/images/PBIA-02-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-02.jpg",
+      "fundo": "base/train/images/PBIA-02-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-03.jpg",
+      "fundo": "base/train/images/PBIA-02-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-03.jpg",
+      "fundo": "base/train/images/PBIA-02-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-04-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-04.jpg",
+      "fundo": "base/train/images/PBIA-02-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-04-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-04.jpg",
+      "fundo": "base/train/images/PBIA-02-04.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-05.jpg",
+      "fundo": "base/train/images/PBIA-02-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-05.jpg",
+      "fundo": "base/train/images/PBIA-02-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-06-0p8.jpg",
+      "origem": "base/val/images/PBIA-02-06.jpg",
+      "fundo": "base/val/images/PBIA-02-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-06-1p2.jpg",
+      "origem": "base/val/images/PBIA-02-06.jpg",
+      "fundo": "base/val/images/PBIA-02-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-07-0p8.jpg",
+      "origem": "base/train/images/PBIA-02-07.jpg",
+      "fundo": "base/train/images/PBIA-02-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-07-1p2.jpg",
+      "origem": "base/train/images/PBIA-02-07.jpg",
+      "fundo": "base/train/images/PBIA-02-07.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-08-0p8.jpg",
+      "origem": "base/val/images/PBIA-02-08.jpg",
+      "fundo": "base/val/images/PBIA-02-08.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-02-08-1p2.jpg",
+      "origem": "base/val/images/PBIA-02-08.jpg",
+      "fundo": "base/val/images/PBIA-02-08.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-015-01.jpg",
+      "fundo": "base/train/images/PBIA-015-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-015-01.jpg",
+      "fundo": "base/train/images/PBIA-015-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-015-02.jpg",
+      "fundo": "base/train/images/PBIA-015-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-015-02.jpg",
+      "fundo": "base/train/images/PBIA-015-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-015-03.jpg",
+      "fundo": "base/train/images/PBIA-015-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-015-03.jpg",
+      "fundo": "base/train/images/PBIA-015-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-04-0p8.jpg",
+      "origem": "base/val/images/PBIA-015-04.jpg",
+      "fundo": "base/val/images/PBIA-015-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-04-1p2.jpg",
+      "origem": "base/val/images/PBIA-015-04.jpg",
+      "fundo": "base/val/images/PBIA-015-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-015-05.jpg",
+      "fundo": "base/train/images/PBIA-015-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-015-05.jpg",
+      "fundo": "base/train/images/PBIA-015-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-06-0p8.jpg",
+      "origem": "base/val/images/PBIA-015-06.jpg",
+      "fundo": "base/val/images/PBIA-015-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-015-06-1p2.jpg",
+      "origem": "base/val/images/PBIA-015-06.jpg",
+      "fundo": "base/val/images/PBIA-015-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-01-0p8.jpg",
+      "origem": "base/train/images/PBIA-06-01.jpg",
+      "fundo": "base/train/images/PBIA-06-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-01-1p2.jpg",
+      "origem": "base/train/images/PBIA-06-01.jpg",
+      "fundo": "base/train/images/PBIA-06-01.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-02-0p8.jpg",
+      "origem": "base/train/images/PBIA-06-02.jpg",
+      "fundo": "base/train/images/PBIA-06-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-02-1p2.jpg",
+      "origem": "base/train/images/PBIA-06-02.jpg",
+      "fundo": "base/train/images/PBIA-06-02.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-03-0p8.jpg",
+      "origem": "base/train/images/PBIA-06-03.jpg",
+      "fundo": "base/train/images/PBIA-06-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-03-1p2.jpg",
+      "origem": "base/train/images/PBIA-06-03.jpg",
+      "fundo": "base/train/images/PBIA-06-03.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-04-0p8.jpg",
+      "origem": "base/val/images/PBIA-06-04.jpg",
+      "fundo": "base/val/images/PBIA-06-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-04-1p2.jpg",
+      "origem": "base/val/images/PBIA-06-04.jpg",
+      "fundo": "base/val/images/PBIA-06-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-05-0p8.jpg",
+      "origem": "base/train/images/PBIA-06-05.jpg",
+      "fundo": "base/train/images/PBIA-06-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-05-1p2.jpg",
+      "origem": "base/train/images/PBIA-06-05.jpg",
+      "fundo": "base/train/images/PBIA-06-05.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-06-0p8.jpg",
+      "origem": "base/train/images/PBIA-06-06.jpg",
+      "fundo": "base/train/images/PBIA-06-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-06-1p2.jpg",
+      "origem": "base/train/images/PBIA-06-06.jpg",
+      "fundo": "base/train/images/PBIA-06-06.jpg",
+      "transformacao": "saturacao",
+      "treino": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-07-0p8.jpg",
+      "origem": "base/val/images/PBIA-06-07.jpg",
+      "fundo": "base/val/images/PBIA-06-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/PBIA-06-07-1p2.jpg",
+      "origem": "base/val/images/PBIA-06-07.jpg",
+      "fundo": "base/val/images/PBIA-06-07.jpg",
+      "transformacao": "saturacao",
+      "treino": false
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-01-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-01.jpg",
+      "fundo": "base/test/images/sofa-01.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-01-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-01.jpg",
+      "fundo": "base/test/images/sofa-01.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-02-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-02.jpg",
+      "fundo": "base/test/images/sofa-02.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-02-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-02.jpg",
+      "fundo": "base/test/images/sofa-02.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-03-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-03.jpg",
+      "fundo": "base/test/images/sofa-03.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-03-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-03.jpg",
+      "fundo": "base/test/images/sofa-03.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-04-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-04.jpg",
+      "fundo": "base/test/images/sofa-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-04-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-04.jpg",
+      "fundo": "base/test/images/sofa-04.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-05-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-05.jpg",
+      "fundo": "base/test/images/sofa-05.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-05-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-05.jpg",
+      "fundo": "base/test/images/sofa-05.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-06-teste-0p8.jpg",
+      "origem": "base/test/images/sofa-06.jpg",
+      "fundo": "base/test/images/sofa-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    },
+    {
+      "imagem": "ampliado/saturacao/images/sofa-06-teste-1p2.jpg",
+      "origem": "base/test/images/sofa-06.jpg",
+      "fundo": "base/test/images/sofa-06.jpg",
+      "transformacao": "saturacao",
+      "treino": false,
+      "teste": true
+    }
+  ]
+}

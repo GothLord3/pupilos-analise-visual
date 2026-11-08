@@ -1,0 +1,29 @@
+[
+  {
+    "arquivo": "hidrante.jpg",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Fire_hydrant.jpg",
+    "esperado": "zero bicos PBIA",
+    "autor": "brdavids",
+    "licenca": "CC BY 2.0"
+  },
+  {
+    "arquivo": "bico_pbia_azul_google.jpg",
+    "pagina": "https://www.mercadolivre.com.br/bico-magnojet-pbia--cartela-com-10-unidades--azul/up/MLBU2066063838",
+    "esperado": "1 bico PBIA-03; código PBIA-03 visível na foto, cor azul"
+  },
+  {
+    "arquivo": "roboflow-teste1.jpg",
+    "pagina": "https://app.roboflow.com/visual-detection/classification-of-spray-nozzles/dataset",
+    "esperado": "Referência do teste do Roboflow. Endereço individual da foto indisponível."
+  },
+  {
+    "arquivo": "roboflow-teste2.jpg",
+    "pagina": "https://app.roboflow.com/visual-detection/classification-of-spray-nozzles/dataset",
+    "esperado": "Referência do teste do Roboflow. Endereço individual da foto indisponível."
+  },
+  {
+    "arquivo": "roboflow-teste3.jpg",
+    "pagina": "https://app.roboflow.com/visual-detection/classification-of-spray-nozzles/dataset",
+    "esperado": "Referência do teste do Roboflow. Endereço individual da foto indisponível."
+  }
+]
