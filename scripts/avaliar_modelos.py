@@ -54,8 +54,19 @@ def avaliar(pesos, tamanho, limiar=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Reavalia os pesos nos conjuntos fixos da entrega.")
     catalogo = catalogo_modelos()
-    parser.add_argument("--modelo", choices=catalogo["modelos"], default=catalogo["oficial"])
+    parser.add_argument("--modelo", choices=catalogo["modelos"])
+    parser.add_argument("--pesos", type=str)
+    parser.add_argument("--tamanho", type=int)
+    parser.add_argument("--confianca", type=float)
     args = parser.parse_args()
-    config = catalogo["modelos"][args.modelo]
-    _, metricas = avaliar(MODELOS / config["pesos"], config["tamanho"], config["confianca"])
+    if args.pesos:
+        if args.modelo or args.tamanho is None or args.confianca is None:
+            parser.error("Use --pesos com --tamanho e --confianca, sem --modelo.")
+        pesos, tamanho, confianca = args.pesos, args.tamanho, args.confianca
+    else:
+        modelo = args.modelo or catalogo["oficial"]
+        config = catalogo["modelos"][modelo]
+        pesos = MODELOS / config["pesos"]
+        tamanho, confianca = config["tamanho"], config["confianca"]
+    _, metricas = avaliar(pesos, tamanho, confianca)
     print(json.dumps(metricas, ensure_ascii=False, indent=2))

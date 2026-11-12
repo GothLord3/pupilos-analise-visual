@@ -1,57 +1,64 @@
 # Analisador Magnojet
 
-Identifica e conta bicos de pulverização Magnojet da linha PB-IA em fotografias. Trabalho acadêmico da equipe Pupilos.
+Aplicação de visão computacional para identificação e contagem de bicos de pulverização Magnojet da linha PB-IA em fotografias. O projeto foi desenvolvido como trabalho acadêmico pela equipe Pupilos.
 
-## Abrir o programa
+## Instalação
 
-Com Python 3.12, abra um terminal na pasta extraída e instale todas as dependências, incluindo o Streamlit.
+O projeto utiliza Python 3.12. No Windows, execute os comandos abaixo na pasta do projeto:
 
-```powershell
+```cmd
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-No Windows, depois da instalação, dê dois cliques em `Abrir Analisador Magnojet.bat`. Se preferir abrir a interface pelo PowerShell, execute:
+No macOS ou Linux:
 
-```powershell
+```bash
+python3.12 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+```
+
+## Execução
+
+No Windows, abra `Abrir Analisador Magnojet.bat` ou execute:
+
+```cmd
 .\.venv\Scripts\python.exe -m analisador_magnojet --interface
 ```
 
-No macOS ou Linux, crie o ambiente com `python3.12 -m venv .venv`, instale com `.venv/bin/python -m pip install -r requirements.txt` e abra com `.venv/bin/python -m analisador_magnojet --interface`.
+A interface permite selecionar fotografias, executar a identificação, consultar análises anteriores e registrar informações de estoque. Também é possível analisar uma imagem ou pasta pelo terminal:
 
-O Streamlit abre no navegador. Se a página não abrir automaticamente, acesse `http://127.0.0.1:8501` ou use o endereço exibido no terminal. Para encerrar, pressione `Ctrl+C` no terminal.
-
-## Usar a interface
-
-- **Análise** permite anexar fotos ou capturar com a câmera. Para acumular capturas, use **Adicionar foto ao lote** entre elas. O modelo padrão é **Oficial-v1**, com confiança de 50% e resolução de 960 px. Clique em **Analisar** para ver as imagens marcadas e a contagem por classe.
-- **Histórico** lista os lotes de `runs/analises`. Cada lote tem imagens marcadas, contagens, coordenadas e um JSON para baixar. Uma foto sem caixas indica ausência de detecção acima do limiar.
-- **Estoque e financeiro** permite registrar ou editar a quantidade e o valor unitário de cada classe. O programa soma os subtotais em reais e grava as edições em `estoque.json`.
-
-## Terminal
-
-Use o Python do ambiente virtual nos comandos seguintes.
-
-```text
-python -m analisador_magnojet "caminho/da/foto.jpg"
-python -m analisador_magnojet "caminho/das/fotos" --confianca 0.25
-python -m scripts.conferir_dataset
-python -m scripts.modelos
-python -m scripts.avaliar_modelos
-python -m scripts.testar_analise rapido
-python -m scripts.testar_analise base
-python -m scripts.testar_analise ampliado
-python -m scripts.testar_analise classe --classe PBIA-06
-python -m scripts.testar_analise classe --classe todas
-python -m scripts.testar_analise online
-python -m scripts.treinar base --epocas 16
-python -m scripts.treinar ampliado --epocas 10
-python -m scripts.treinar ajuste --epocas 6 --inicial modelos/ampliado.pt
+```cmd
+.\.venv\Scripts\python.exe -m analisador_magnojet caminho\da\foto.jpg
+.\.venv\Scripts\python.exe -m analisador_magnojet caminho\das\fotos --confianca 0.25
 ```
 
-`runs/analises` guarda análises de uso, `runs/testes` recebe os testes dos scripts e `runs/treinos` recebe novos experimentos com pesos e métricas. O modelo padrão está definido em `modelos/catalogo.json`.
+## Base de imagens
 
-## Dados e fontes
+A base contém 84 fotografias originais, separadas em 59 imagens de treino, 19 de validação e 6 de teste. Foram produzidas 332 variações controladas de rotação, iluminação, desfoque, saturação, recorte e fundo. Destas, 201 são utilizadas em conjunto com as imagens originais durante os ajustes do modelo.
 
-`Bicos de Pulverização` guarda os originais com nomes padronizados. `dataset` concentra a base YOLO com as 84 fotos, as variações organizadas por transformação e as imagens de avaliação externa. `analise_dados/resumo.json` tem o inventário verificável. O catálogo, o seminário e a exportação original do Roboflow ficam em `fontes`. Coloque ali o arquivo final do grupo quando estiver disponível.
+As classes identificadas são PBIA-01, PBIA-015, PBIA-02, PBIA-025, PBIA-03, PBIA-04, PBIA-05 e PBIA-06. As divisões foram organizadas por grupos visuais para reduzir a semelhança entre as imagens de treino, validação e teste.
 
-As tabelas de treino estão em `docs/RESULTADOS.md`.
+## Modelo oficial
+
+Durante o desenvolvimento foram avaliadas diferentes configurações da base, resolução de entrada, taxa de aprendizado, otimizador e ajustes dos pesos. O modelo escolhido para a aplicação foi o **Oficial-v1**, utilizado com confiança de 50% e resolução de 960 px.
+
+| Conjunto | Imagens completamente identificadas | Total de imagens | F1 por objeto |
+| --- | ---: | ---: | ---: |
+| Validação original | 15 | 19 | 0,897 |
+| Teste original | 0 | 6 | 0,455 |
+| Teste ampliado | 0 | 12 | 0,419 |
+| Amostra online | 1 | 5 | 0,250 |
+
+O F1 médio de validação foi 0,923 quando as imagens originais e as variações de validação foram consideradas nos grupos previstos pelo experimento. Uma detecção é considerada correta quando a classe coincide com a anotação e a interseção sobre união é igual ou superior a 0,50.
+
+Os resultados completos dos modelos avaliados estão em [`docs/RESULTADOS.md`](docs/RESULTADOS.md).
+
+## Organização do projeto
+
+- `analisador_magnojet`: módulos de análise e persistência;
+- `dataset`: imagens, anotações e divisões da base;
+- `modelos`: pesos utilizados pelo programa;
+- `scripts`: conferência, avaliação e ajuste do modelo;
+- `docs`: resultados dos experimentos;
+- `fontes`: documentos utilizados na elaboração do projeto.
