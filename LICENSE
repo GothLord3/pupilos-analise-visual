@@ -1,21 +1,21 @@
-ANALISADOR MAGNOJET — AVISO DE DIREITOS RESERVADOS PARA PROJETO ACADÊMICO
+MIT License
 
-Copyright (c) 2026, equipe Pupilos.
+Copyright (c) 2026 Pupilos
 
-Nós, da equipe Pupilos, reservamos os direitos sobre nosso material
-original, desenvolvido para fins acadêmicos.
-Não é concedida autorização geral para copiar, redistribuir, sublicenciar,
-comercializar ou apresentar este trabalho, integral ou parcialmente, como
-trabalho próprio. Usos dependem de autorização expressa dos titulares,
-ressalvados os direitos e exceções previstos na legislação aplicável.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Este aviso não é uma licença de código aberto. Não altera licenças de
-bibliotecas, modelos, dados ou outros materiais de terceiros.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-A integração com Ultralytics YOLO possui obrigações próprias (AGPL-3.0 ou
-licença comercial aplicável). Este aviso NÃO torna essa integração isenta
-dessas obrigações. A compatibilidade entre a restrição de cópia pretendida
-e a distribuição da solução integrada permanece pendente de definição.
-Não se declara que uma licença Enterprise foi adquirida.
-
-O software é experimental e fornecido sem garantia de desempenho.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
